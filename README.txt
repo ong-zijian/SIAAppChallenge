@@ -1,3 +1,7 @@
+## View
+This project is live on Github pages at: https://ong-zijian.github.io/zijian_personal_page/ \
+If the pages is not working, you can run it from the script methods below.
+
 # Sentiment Analysis and Suggestion
 We will be performing a sentiment analysis about SIA using Twitter posts and from there, make suggestions for improvement.
 
