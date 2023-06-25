@@ -1,12 +1,14 @@
-# Sentiment Analysis and Suggestion
+Sentiment Analysis and Suggestion
+=============================
 
 We will be performing a sentiment analysis about SIA using Twitter posts and from there, make suggestions for improvement.
 
-## How to run?
+How to run?
+-----------
 
 1. Download `SIA_AppChallenge_Final.ipynb`, `openAIRes.txt`, and `sia_tweets.json`. Ensure that all these files are in the same directory.
 
-2. We recommend using Jupyter Notebook or any other notebook program that are local as you would have to import the other 2 files.
+2. We recommend using Jupyter Notebook or any other notebook program that supports Markdown as you would have to import the other 2 files.
 
 3. Run the cells from the first to the end. Ensure that the previous cell has finished running before going on to the next one.
 
